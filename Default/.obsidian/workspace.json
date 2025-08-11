@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading/Currently Reading.md",
+                "file": "books/1754594475-radiance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Currently Reading"
+              "title": "1754594475-radiance"
             }
           }
         ]
@@ -170,20 +170,26 @@
   },
   "active": "50087424b186e7cc",
   "lastOpenFiles": [
-    "reading/Currently Reading.md~",
     "books/1754595125-the-magic-mountain.md",
+    "reading/Currently Reading.md",
+    "books/1754594475-radiance.md",
+    "bookbinding/1754933735-graph-paper-journal.md",
+    "bookbinding/1754930271-bookbinding-process.md",
+    "templates/1754934924-bookbinding-project.md",
+    "templates/book.md",
+    "1754936355-1754595125-the-magic-mountainthe-magic-mountain.md",
+    "1754936333-1754595125-the-magic-mountainthe.md",
+    "daily/2025-08-11.md",
+    "reading/Currently Reading.md~",
     "templates/book.md~",
     "books/1754594550-the-magic-mountain.md",
-    "books/1754594475-radiance.md",
     "books/1754594348-radiance.md",
     "books/1754594226-radiance.md",
     "books",
     "1754594105-HHGZ.md",
-    "templates/book.md",
     "templates",
     "reading/The Magic Mountain.md~",
     "reading/The Magic Mountain.md",
-    "reading/Currently Reading.md",
     "shop/shop_catalog.md",
     "shop/shop_todo.md",
     "daily/2025-08-07.md",
@@ -200,9 +206,6 @@
     "Untitled.canvas",
     "Test.md",
     "1754327962-USPT.md",
-    "Shop cleaning plan.md",
-    "Welcome.md",
-    "1754254436-USPT.md",
-    "1753600041-USPT.md"
+    "Shop cleaning plan.md"
   ]
 }
